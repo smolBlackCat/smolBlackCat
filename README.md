@@ -1,16 +1,39 @@
-### Hi there 👋
+### About me:
 
-<!--
-**smolBlackCat/smolBlackCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smolBlackCat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+Hoy, I'm De Moura (aka smolBlackCat) and I'm primarily aiming to be a game
+developer as a professional and a hacker in my free time. Although I'm focused
+in game development, I know how to create plenty of systems, including:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Web Applications (Django)
+* Linux Desktop Applications (JavaFX, GTK)
+* Games (Pygame, SFML)
+* Android Applications (Java)
+
+I'm not a specialist in any of those, but I manage to learn thing pretty quick.
+
+## My skills
+
+### Languages 💻
+
+* <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/java/java-original.svg" width=32 height=32> Java
+* <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/python/python-original.svg" width=32 height=32> Python
+* <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/cplusplus/cplusplus-original.svg" width=32 height=32> C++
+
+### Frameworks and Libraries ⚒️
+
+* Pygame
+* SFML
+* GTK4
+* Django
+* JavaFX
+* Java Swing
+* Android SDK
+
+### Tools 🛠️
+
+* <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/git/git-original.svg" width=32 height=32> Git
+* <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/androidstudio/androidstudio-original.svg" width=32 height=32> Android Studio
+* <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/vscode/vscode-original.svg" width=32 height=32> Visual Studio Code
+* <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/github/github-original.svg" width=32 height=32> Github
