@@ -2,7 +2,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smolBlackCat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Hoy, I'm De Moura (aka smolBlackCat) and I'm primarily aiming to be a game
+Hoy, I'm Gabriel de Moura (aka smolBlackCat, De Moura) and I'm primarily aiming to be a game
 developer as a professional and a hacker in my free time. Although I'm focused
 in game development, I know how to create plenty of systems, including:
 
@@ -11,7 +11,7 @@ in game development, I know how to create plenty of systems, including:
 * Games (Pygame, SFML)
 * Android Applications (Java)
 
-I'm not a specialist in any of those, but I manage to learn thing pretty quick.
+I'm currently Web development as well.
 
 ## My skills
 
