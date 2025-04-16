@@ -1,39 +1,15 @@
-### About me:
+### Hello There!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smolBlackCat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+I'm smolblackcat. I am a computer science student with a great passion for developing software, primarily contributing to open-source projects across the interwebs. I particularly love working with low-level stuff and computer security but I also know how to develop other kinds of software systems as well. I also have a thing for applying good software engineering practises onto my projects and constantly challenging myself to write better and understandable code.
 
-Hoy, I'm Gabriel de Moura (aka smolBlackCat, De Moura) and I'm primarily aiming to be a game
-developer as a professional and a hacker in my free time. Although I'm focused
-in game development, I know how to create plenty of systems, including:
+### What I am up to?
 
-* Web Applications (Django)
-* Linux Desktop Applications (JavaFX, GTK)
-* Games (Pygame, SFML)
-* Android Applications (Java)
+I am currently maintaining a simple but useful app called **[Progress][progress-link]**, which is a simple kanban-style task manager for the Linux desktop and Windows systems as well. It is written in C++ with **[LibAdwaita][adwaita-link]** and **[GTK4][gtk-link]** graphical toolkits. And when I am not working on my app, in my free time, I also like to contribute to diverse open-source projects across Github, most of them related to desktop applications for the Linux desktop.
 
-I'm currently Web development as well.
+Nowadays, I am investing most of my time studying deeply about operating systems abstractions and design, the computer networking stack (TCP/IP) and the Web application development framework. If you wanna see my [progress][progress-link], check it out my **[little site][cool-site]** (quick disclaimer, it sucks!).
 
-## My skills
 
-### Languages 💻
-
-* <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/java/java-original.svg" width=32 height=32> Java
-* <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/python/python-original.svg" width=32 height=32> Python
-* <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/cplusplus/cplusplus-original.svg" width=32 height=32> C++
-
-### Frameworks and Libraries ⚒️
-
-* Pygame
-* SFML
-* GTK4
-* Django
-* JavaFX
-* Java Swing
-* Android SDK
-
-### Tools 🛠️
-
-* <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/git/git-original.svg" width=32 height=32> Git
-* <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/androidstudio/androidstudio-original.svg" width=32 height=32> Android Studio
-* <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/vscode/vscode-original.svg" width=32 height=32> Visual Studio Code
-* <img src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/github/github-original.svg" width=32 height=32> Github
+[progress-link]: https://github.com/smolBlackCat/progress-tracker
+[adwaita-link]: https://gnome.pages.gitlab.gnome.org/libadwaita/
+[gtk-link]: https://www.gtk.org/
+[cool-site]: https://smolblackcat.github.io/
